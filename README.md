@@ -135,7 +135,7 @@ Mixin 下载方式：
 
 定投践行群是笑来老师在今年七三韭菜节上成立的一个**Mixin群**，目的是集聚一群有志于定投践行的践行者一起践行、相互监督共同成长，目前定投践行群已经有**3484**名成员，并且在持续增长中.....
 
-<img src="https://github.com/erdongchendou/BOX_DingTouJianXingQun/blob/master/课程截图/践行群人数.jpg" style="zoom:100%;" />
+<img src="./课程截图/践行群人数.jpg" style="zoom:100%;" />
 
 ### 2、为什么要进定投践行群？    
 
