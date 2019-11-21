@@ -118,7 +118,7 @@ Mixin 下载方式：
 
 **[BOX验证真伪](https://bwatch.zendesk.com/hc/zh-cn/articles/360032542912-验证真伪-BOX-Token)**
 
-**[笑来老师关于BOX的介绍](https://onregularinvesting.com/#/cn/?id=_1-关于-box)**
+**[笑来老师自己写的关于BOX的介绍](https://onregularinvesting.com/#/cn/?id=_1-关于-box)**
 
 
 
@@ -195,6 +195,8 @@ BTC可以在mixin里购买。
 [**《定投改变命运》第三版**](https://onregularinvesting.com/#/cn/)
 
 [**《区块链小白书》**](https://blockchainlittlebook.com)
+
+**[笑来老师自己写的关于践行群的介绍](https://onregularinvesting.com/#/cn/?id=_3-关于笑来定投课堂)**
 
 * 如果时间充足建议把三个版本的定投改变命运都读一遍。
 * 如果时间受限可以先阅读第三版。
