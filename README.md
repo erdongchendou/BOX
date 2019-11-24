@@ -76,13 +76,16 @@ Mixin 下载方式：
 
 - - 国内用户，在 iTunes [**下载Mixin畅聊版**](https://apps.apple.com/cn/app/mixin-密信畅聊版/id1457938019)
   - 国外用户，在 iTunes [**下载Mixin Messenger**](https://apps.apple.com/app/mixin/id1322324266)
-
+- 注意：对于国内的iPhone用户Mixin畅聊版没有钱包功能，因此需要添加钱包机器人（ID：7000101425），授权后才能看到购买的BOX。
+  
 - Android
 
 - - 国内用户，在[**腾讯应用宝下载**](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[**小米应用商店下载**](http://app.mi.com/details?id=one.mixin.messenger)
   - 国外用户，在 [**Google Play Store下载**](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
-注意：对于国内的iPhone用户Mixin畅聊版没有钱包功能，因此需要添加钱包机器人（ID：7000101425），授权后才能看到购买的BOX。
+
+
+* [Mixin签到奖励](你要与500万擦肩而过吗？.md)
 
 **说明：以上安装教程节选自笑来老师的区块链小白书比特币第9小节。**
 
@@ -182,7 +185,7 @@ BTC可以在mixin里购买。
 
 是目前为止所有的历史课程，课程在持续更新中......
 
-[**已发布课程列表**](./课程列表.md)
+[**已发布课程列表**](课程列表.md)
 
 
 
