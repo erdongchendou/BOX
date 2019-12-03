@@ -83,7 +83,7 @@ Mixin 下载方式：
 - - 国内用户，在[**腾讯应用宝下载**](https://a.app.qq.com/o/simple.jsp?pkgname=one.mixin.messenger)，或者[**小米应用商店下载**](http://app.mi.com/details?id=one.mixin.messenger)
   - 国外用户，在 [**Google Play Store下载**](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
-* **[Mixin签到奖励](do_you_want_to_miss_5_million_or_not?.md)**
+* **[Mixin签到奖励](do_you_want_to_miss_5_million_or_not.md)**
 
 **说明：以上安装教程节选自笑来老师的区块链小白书比特币第9小节。**
 
