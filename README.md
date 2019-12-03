@@ -84,6 +84,7 @@ Mixin 下载方式：
   - 国外用户，在 [**Google Play Store下载**](https://play.google.com/store/apps/details?id=one.mixin.messenger)
 
 * **[Mixin签到奖励](do_you_want_to_miss_5_million_or_not.md)**
+* [**Mixin签到题库**](everyday_question.md)
 
 **说明：以上安装教程节选自笑来老师的区块链小白书比特币第9小节。**
 
